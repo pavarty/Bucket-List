@@ -1,6 +1,6 @@
 # Bucket List
 
-'' Some things I want to do in life. ''
+' Some things I want to do in life. '
 
 1. Meet Robin Williams ( Unable to complete. :( )
 2. Meet Bill Nye
