@@ -1,6 +1,6 @@
 # Bucket List
 
-' Some things I want to do in life. '
+> Some things I want to do in life. 
 
 1. Meet Robin Williams ( Unable to complete. :( )
 2. Meet Bill Nye
@@ -13,4 +13,4 @@
 9. Preserve the planet
 10. Help humanity, nature, and technology coexist.
 
-'' I do not care if you believe I can. I will. ''
+> I do not care if you believe I can. I will. 
